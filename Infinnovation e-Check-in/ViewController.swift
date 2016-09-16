@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        activity.startAnimating()
         loadAddress()
     }
 
@@ -26,7 +27,7 @@ class ViewController: UIViewController {
     }
     
     func loadAddress() {
-        let requestURL = NSURL(string: "https://infinnovationcheckin-vistas.rhcloud.com")
+        let requestURL = NSURL(string: "https://echeckin.infinnovation.co")
         let request = NSURLRequest(URL: requestURL!)
         webView.loadRequest(request)
     }
