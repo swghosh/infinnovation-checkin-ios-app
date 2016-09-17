@@ -26,8 +26,8 @@ class ViewController: UIViewController {
     }
     
     func loadAddress() {
-        let requestURL = NSURL(string: "https://echeckin.infinnovation.co")
-        let request = NSURLRequest(URL: requestURL!)
+        let requestURL = URL(string: "https://echeckin.infinnovation.co")
+        let request = URLRequest(url: requestURL!)
         webView.loadRequest(request)
     }
     
