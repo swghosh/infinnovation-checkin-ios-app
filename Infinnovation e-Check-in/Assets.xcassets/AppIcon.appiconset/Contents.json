@@ -1,8 +1,9 @@
 {
   "images" : [
     {
-      "idiom" : "iphone",
       "size" : "20x20",
+      "idiom" : "iphone",
+      "filename" : "InfinnovatioN.png",
       "scale" : "2x"
     },
     {
@@ -12,13 +13,15 @@
       "scale" : "3x"
     },
     {
-      "idiom" : "iphone",
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "InfinnovatioN-1.png",
       "scale" : "1x"
     },
     {
-      "idiom" : "iphone",
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "InfinnovatioN-2.png",
       "scale" : "2x"
     },
     {
@@ -54,7 +57,7 @@
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "InfinnovatioN-60.png",
+      "filename" : "InfinnovatioN-3.png",
       "scale" : "2x"
     },
     {
@@ -88,13 +91,15 @@
       "scale" : "2x"
     },
     {
-      "idiom" : "ipad",
       "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "InfinnovatioN-4.png",
       "scale" : "1x"
     },
     {
-      "idiom" : "ipad",
       "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "InfinnovatioN-5.png",
       "scale" : "2x"
     },
     {
