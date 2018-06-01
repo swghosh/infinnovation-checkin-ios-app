@@ -1,4 +1,4 @@
-<img src="https://s11.postimg.org/dyce1hkkj/iphone6splusspacegrey_portrait.png">
+![Screenshot](https://swghosh.github.io/images/inficheckinpromo.png)
 # Infinnovation E-Check-In iOS App
 
 The participating schools are required to use this app to be able to check into Delhi Public School Newtown's eco-commerce fest, Infinnovation. The check-in procedure involves providing the Unique ID assigned to the respective school and the details of all the participants of the same school. 
